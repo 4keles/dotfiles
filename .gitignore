@@ -1,0 +1,12 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor backup/temp files
+*~
+*.swp
+*.swo
+
+# Local overrides (optional)
+*.local
+zsh/.zshrc.local
